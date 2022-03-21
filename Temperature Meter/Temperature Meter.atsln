@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Temperature Meter", "Temperature Meter\Temperature Meter.cproj", "{45223B85-7482-4358-899E-8B092094A3AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45223B85-7482-4358-899E-8B092094A3AA}.Debug|AVR.ActiveCfg = Debug|AVR
+		{45223B85-7482-4358-899E-8B092094A3AA}.Debug|AVR.Build.0 = Debug|AVR
+		{45223B85-7482-4358-899E-8B092094A3AA}.Release|AVR.ActiveCfg = Release|AVR
+		{45223B85-7482-4358-899E-8B092094A3AA}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
