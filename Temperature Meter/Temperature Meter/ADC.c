@@ -18,7 +18,7 @@ void ADC_vInit(void)
 	//Enable the ADC
 	SET_BIT(ADCSRA,ADEN);
 	//Choose which pin of portA passes to the ADC
-	CLR_BIT(ADMUX,MUX0); // pin0 connected to the ADC
+	SET_BIT(ADMUX,MUX4); // pin0 connected to the ADC
 	//Define the ADC clock, the  
 	//CLR_BIT(ADCSRA,ADPS0);
 	SET_BIT(ADCSRA,ADPS1);
