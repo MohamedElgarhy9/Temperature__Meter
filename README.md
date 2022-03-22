@@ -5,7 +5,7 @@
   ### Major components:
    #### External:
       - ATmega32A microcontroller 
-      - 2*16 Lcd
+      - 2*16 LCD
       - LM35
    #### Internal:
       - DIO
